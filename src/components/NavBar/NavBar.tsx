@@ -16,7 +16,7 @@ const NavBar = () => {
         justifyContent: "center",
       }}
     >
-      <Link to="/">
+      <Link to="/" style={{ textDecoration: "none" }}>
         <Button
           sx={{
             color: "black",
@@ -26,7 +26,7 @@ const NavBar = () => {
           css
         </Button>
       </Link>
-      <Link to="/mui">
+      <Link to="/mui" style={{ textDecoration: "none" }}>
         <Button
           sx={{
             color: "black",
