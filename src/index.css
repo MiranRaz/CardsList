@@ -1,0 +1,14 @@
+/*Removing margin from whole project*/
+* {
+  margin: 0px;
+}
+/* Remove text selection highlight */
+::selection {
+  background-color: transparent;
+}
+
+/* Remove image shadow when selected */
+img::selection {
+  background-color: transparent;
+  outline: none;
+}
