@@ -3,7 +3,7 @@ I created two implementations for the cards, where I've used CSS for styling in 
 
 They are split into 2 paths: the CSS implementation is in the `/home` path, while the Mui implementation is in the `/mui` path. You can navigate between the two using the provided buttons for each link.
 
-The currently selected implementation is underlined with text decoration underline.
+The currently selected implementation is underlined.
 
 The design for both cards is similar, but not identical, as I wanted to showcase some differences.
 
